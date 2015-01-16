@@ -1,5 +1,5 @@
 # SynapticalDB
-Database Provider witch behaves likes synaptical connections in our brain
+Database Provider which behaves likes synaptical connections in our brain
 
 It's goal is testing fast data query in multi-parellel-linked object struture, through concurrent programming.
 
